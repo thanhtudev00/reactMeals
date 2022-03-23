@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { React, useState } from "react";
 
 import Meals from './components/Meals/Meals';
 import Header from "./components/Layout/Header";
